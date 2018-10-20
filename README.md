@@ -1,5 +1,5 @@
-Sample Package
-==============
+Sample Python Package
+=====================
 
 Hello, this is a sample python package skelleton.
 
